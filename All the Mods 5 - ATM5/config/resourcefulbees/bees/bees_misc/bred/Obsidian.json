@@ -1,0 +1,11 @@
+{
+    "honeycombColor": "#f0b400",
+    "primaryColor": "#f0b400",
+    "secondaryColor": "#f0ec00",
+    "flower": "ALL",
+    "mainOutput": "minecraft:obsidian",
+    "maxTimeInHive": 600,
+    "breedable" : true,
+    "parent1": "Water",
+    "parent2": "Lava"
+  }

@@ -1,0 +1,11 @@
+{
+    "honeycombColor": "#f0b400",
+    "primaryColor": "#f0b400",
+    "secondaryColor": "#f0ec00",
+    "flower": "tag:forge:storage_blocks/electrum",
+    "mainOutput": "silents_mechanisms:electrum_ingot",
+    "maxTimeInHive": 600,
+    "breedable" : true,
+    "parent1": "Gold",
+    "parent2": "Silver"
+  }

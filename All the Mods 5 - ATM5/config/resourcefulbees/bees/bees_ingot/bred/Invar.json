@@ -1,0 +1,11 @@
+{
+    "honeycombColor": "#ffcc99",
+    "primaryColor": "#ffcc99",
+    "secondaryColor": "#303030",
+    "flower": "tag:forge:storage_blocks/invar",
+    "mainOutput": "silents_mechanisms:invar_ingot",
+    "maxTimeInHive": 600,
+    "breedable" : true,
+    "parent1": "Iron",
+    "parent2": "Nickel"
+  }

@@ -1,0 +1,13 @@
+{
+    "honeycombColor": "#f0b400",
+    "primaryColor": "#f0b400",
+    "secondaryColor": "#f0ec00",
+    "flower": "tag:wphantoms_stuff:bee_stuff/forest_flowers",
+    "mainOutput": "minecraft:oak_log",
+    "mainOutputCount": 5,
+    "secondaryOutput" : "minecraft:apple",
+    "secondaryOutputWeight": 0.2,
+    "spawnInWorld": true,
+    "biomeWhitelist": "tag:forest",
+    "maxTimeInHive": 600
+  }

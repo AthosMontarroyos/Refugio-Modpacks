@@ -1,0 +1,13 @@
+{
+    "honeycombColor": "#339786",
+    "primaryColor": "#339786",
+    "secondaryColor": "#303030",
+    "flower": "tag:wphantoms_stuff:bee_stuff/draconic_flowers",
+    "mainOutput": "minecraft:dragon_egg",
+    "mainOutputWeight": 0.01,
+    "bottleOutput" : "minecraft:dragon_breath",
+    "maxTimeInHive": 1800,
+    "breedable" : true,
+    "parent1": "Ender",
+    "parent2": "Obsidian"
+  }

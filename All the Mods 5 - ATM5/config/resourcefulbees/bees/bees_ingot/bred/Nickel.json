@@ -1,0 +1,11 @@
+{
+    "honeycombColor": "#f0b400",
+    "primaryColor": "#f0b400",
+    "secondaryColor": "#f0ec00",
+    "flower": "tag:forge:storage_blocks/nickel",
+    "mainOutput": "silents_mechanisms:nickel_ingot",
+    "maxTimeInHive": 600,
+    "breedable" : true,
+    "parent1": "Iron",
+    "parent2": "Sweaty"
+  }

@@ -1,0 +1,11 @@
+{
+    "honeycombColor": "#f0b400",
+    "primaryColor": "#f0b400",
+    "secondaryColor": "#f0ec00",
+    "flower": "tag:forge:storage_blocks/platinum",
+    "mainOutput": "silents_mechanisms:platinum_ingot",
+    "maxTimeInHive": 600,
+    "breedable" : true,
+    "parent1": "Ender",
+    "parent2": "Gold"
+  }

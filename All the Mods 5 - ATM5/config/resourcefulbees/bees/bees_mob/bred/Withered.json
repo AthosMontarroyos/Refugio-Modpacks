@@ -1,0 +1,13 @@
+{
+    "honeycombColor": "#444444",
+    "baseLayerTexture": "wither/wither_bee",
+    "isBeeColored": false,
+    "flower": "tag:wphantoms_stuff:bee_stuff/wither_flowers",
+    "mainOutput": "minecraft:nether_star",
+    "mainOutputWeight": 0.01,
+    "witherBee": true,
+    "netherBee": true,
+    "breedable" : true,
+    "parent1": "Burnt_Skeletal",
+    "parent2": "Ghost"
+  }

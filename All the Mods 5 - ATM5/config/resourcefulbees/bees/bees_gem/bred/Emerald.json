@@ -1,0 +1,10 @@
+{
+  "honeycombColor": "#18eb09",
+  "primaryColor": "#18eb09",
+  "secondaryColor": "#303030",
+  "flower": "tag:forge:storage_blocks/emerald",
+  "mainOutput": "minecraft:emerald",
+  "breedable" : true,
+  "parent1": "Diamond",
+  "parent2": "Slimy"
+}

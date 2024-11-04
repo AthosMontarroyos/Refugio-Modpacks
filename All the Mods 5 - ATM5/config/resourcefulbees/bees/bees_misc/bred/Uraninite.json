@@ -1,0 +1,12 @@
+{
+    "honeycombColor": "#f0b400",
+    "primaryColor": "#f0b400",
+    "secondaryColor": "#f0ec00",
+    "flower": "tag:forge:storage_blocks/uraninite",
+    "mainOutput": "powah:uraninite",
+    "mainOutputCount": 3,
+    "maxTimeInHive": 600,
+    "breedable" : true,
+    "parent1": "Emerald",
+    "parent2": "Uranium"
+  }

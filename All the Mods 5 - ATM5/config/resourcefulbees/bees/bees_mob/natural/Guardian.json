@@ -1,0 +1,13 @@
+{
+    "honeycombColor": "#f0b400",
+    "primaryColor": "#f0b400",
+    "secondaryColor": "#f0ec00",
+    "flower": "tag:minecraft:water",
+    "mainOutput": "minecraft:prismarine_shard",
+    "mainOutputCount": 2,
+    "secondaryOutput" : "minecraft:cod",
+    "secondaryOutputWeight": 0.3,
+    "spawnInWorld": true,
+    "biomeWhitelist": "tag:OCEAN",
+    "maxTimeInHive": 600
+  }

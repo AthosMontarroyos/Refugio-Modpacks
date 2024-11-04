@@ -1,0 +1,11 @@
+{
+    "honeycombColor": "#f0b400",
+    "primaryColor": "#f0b400",
+    "secondaryColor": "#f0ec00",
+    "flower": "tag:wphantoms_stuff:bee_stuff/nether_flowers",
+    "mainOutput": "minecraft:ghast_tear",
+    "maxTimeInHive": 600,
+    "breedable" : true,
+    "parent1": "Explosive",
+    "parent2": "Magmatic"
+  }

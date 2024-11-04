@@ -1,0 +1,10 @@
+{
+    "honeycombColor": "#2F4E32",
+    "baseLayerTexture": "zombie/zombie_bee",
+    "isBeeColored": false,
+    "flower": "tag:wphantoms_stuff:bee_stuff/swamp_flowers",
+    "mainOutput": "minecraft:slime_ball",
+    "spawnInWorld": true,
+    "biomeWhitelist": "tag:SWAMP",
+    "maxTimeInHive": 600
+  }

@@ -1,0 +1,11 @@
+{
+    "honeycombColor": "#f0b400",
+    "primaryColor": "#f0b400",
+    "secondaryColor": "#f0ec00",
+    "flower": "tag:forge:storage_blocks/copper",
+    "mainOutput": "mekanism:ingot_copper",
+    "maxTimeInHive": 600,
+    "breedable" : true,
+    "parent1": "Crystalline",
+    "parent2": "Rocky"
+  }

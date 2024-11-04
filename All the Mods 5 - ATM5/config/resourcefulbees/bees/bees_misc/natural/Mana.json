@@ -1,0 +1,8 @@
+{
+    "honeycombColor": "#05DEFC",
+    "primaryColor": "#05DEFC",
+    "flower": "tag:wphantoms_stuff:bee_stuff/forest_flowers",
+    "spawnInWorld": true,
+    "biomeWhitelist": "tag:magical",
+    "maxTimeInHive": 600
+  }

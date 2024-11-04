@@ -1,0 +1,10 @@
+{
+    "honeycombColor": "#FFFFFF",
+    "primaryColor": "#FF0000",
+    "secondaryColor": "#0000FF",
+    "flower": "tag:wphantoms_stuff:bee_stuff/forest_flowers",
+    "spawnInWorld": true,
+    "biomeWhitelist": "tag:OVERWORLD",
+    "biomeBlacklist": "tag:ocean",
+    "maxTimeInHive": 600
+  }
