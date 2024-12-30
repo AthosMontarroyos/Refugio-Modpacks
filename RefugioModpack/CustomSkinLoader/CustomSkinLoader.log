@@ -1,0 +1,223 @@
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.21.2
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: C:\Users\athos\AppData\Roaming\.minecraft\versions\RefugioModpack\CustomSkinLoader
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 17.0.8, Microsoft
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.20.1
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Config File: C:\Users\athos\AppData\Roaming\.minecraft\versions\RefugioModpack\CustomSkinLoader\CustomSkinLoader.json
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Config file not found, use default instead.
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Successfully create config.
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.21.2
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 30
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "LabyMod", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://dl.labymod.net/capes/{STANDARD_UUID}" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2024-12-29 22:45:09] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2024-12-29 22:45:09] [NathyZX/INFO] [CustomSkinLoader Core]: Loading NathyZX's profile.
+[2024-12-29 22:45:09] [NathyZX/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2024-12-29 22:45:09] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:09] [NathyZX/INFO] [CustomSkinLoader Core]: Payload: ["NathyZX"]
+[2024-12-29 22:45:10] [NathyZX/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-12-29 22:45:10] [NathyZX/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-12-29 22:45:10] [NathyZX/INFO] [CustomSkinLoader Core]: Profile not found.(NathyZX's profile not found.)
+[2024-12-29 22:45:10] [NathyZX/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
+[2024-12-29 22:45:10] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/NathyZX.json'.
+[2024-12-29 22:45:11] [HariG4mer/INFO] [CustomSkinLoader Core]: Loading HariG4mer's profile.
+[2024-12-29 22:45:11] [HariG4mer/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2024-12-29 22:45:11] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:11] [HariG4mer/INFO] [CustomSkinLoader Core]: Payload: ["HariG4mer"]
+[2024-12-29 22:45:11] [klaus/INFO] [CustomSkinLoader Core]: Loading klaus's profile.
+[2024-12-29 22:45:11] [klaus/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2024-12-29 22:45:11] [klaus/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:11] [klaus/INFO] [CustomSkinLoader Core]: Payload: ["klaus"]
+[2024-12-29 22:45:11] [l1pe__/INFO] [CustomSkinLoader Core]: Loading l1pe__'s profile.
+[2024-12-29 22:45:11] [l1pe__/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2024-12-29 22:45:11] [l1pe__/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:11] [l1pe__/INFO] [CustomSkinLoader Core]: Payload: ["l1pe__"]
+[2024-12-29 22:45:12] [klaus/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 71)
+[2024-12-29 22:45:12] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-12-29 22:45:12] [klaus/DEBUG] [CustomSkinLoader Core]: Content: [ {
+  "id" : "3fef889afb684dfbbcee38d56637f6f6",
+  "name" : "Klaus"
+} ]
+[2024-12-29 22:45:12] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-12-29 22:45:12] [HariG4mer/INFO] [CustomSkinLoader Core]: Profile not found.(HariG4mer's profile not found.)
+[2024-12-29 22:45:12] [HariG4mer/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
+[2024-12-29 22:45:12] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/HariG4mer.json'.
+[2024-12-29 22:45:12] [klaus/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/3fef889afb684dfbbcee38d56637f6f6'.
+[2024-12-29 22:45:12] [l1pe__/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 72)
+[2024-12-29 22:45:12] [l1pe__/DEBUG] [CustomSkinLoader Core]: Content: [ {
+  "id" : "a70e5a785947416b968494c6e59516f5",
+  "name" : "l1pe__"
+} ]
+[2024-12-29 22:45:12] [l1pe__/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/a70e5a785947416b968494c6e59516f5'.
+[2024-12-29 22:45:12] [klaus/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 719)
+[2024-12-29 22:45:12] [l1pe__/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 792)
+[2024-12-29 22:45:12] [klaus/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 719 , Path: 'C:\Users\athos\AppData\Roaming\.minecraft\versions\RefugioModpack\CustomSkinLoader\caches\d7e44d0a16e1824528ce84d239dfea9a9394f232' , Expire: 1735523142)
+[2024-12-29 22:45:12] [klaus/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "3fef889afb684dfbbcee38d56637f6f6",
+  "name" : "Klaus",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTczNTUyMzExMzYwMiwKICAicHJvZmlsZUlkIiA6ICIzZmVmODg5YWZiNjg0ZGZiYmNlZTM4ZDU2NjM3ZjZmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLbGF1cyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZDgzNmQ3MzdmOGI5ZjU4MzkzNGFhNDI2MDFmZjljZTJjMWY0Njk1NWQ3NjU5ZTEwNzgxY2EzNTU0YTE0MjVkIgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMGNjMDg4NDA3MDA0NDczMjJkOTUzYTAyYjk2NWYxZDY1YTEzYTYwM2JmNjRiMTdjODAzYzIxNDQ2ZmUxNjM1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}
+[2024-12-29 22:45:12] [l1pe__/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 792 , Path: 'C:\Users\athos\AppData\Roaming\.minecraft\versions\RefugioModpack\CustomSkinLoader\caches\3574a1d4bcfbe16e3e06fd6a769c400074d12430' , Expire: 1735523142)
+[2024-12-29 22:45:12] [l1pe__/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "a70e5a785947416b968494c6e59516f5",
+  "name" : "l1pe__",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTczNTUyMzExMzYyNiwKICAicHJvZmlsZUlkIiA6ICJhNzBlNWE3ODU5NDc0MTZiOTY4NDk0YzZlNTk1MTZmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsMXBlX18iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWI2ZTRiZWQ5ZTM3N2FhYTA5NGVhMDYwNTIyYjIxZDlkZmZjMzRkMWUwMWYwMzk3NTMzOWViMmM5OWM1ZTQ0OSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NiNDBhOTJlMzJiNTdmZDczMmEwMGZjMzI1ZTdhZmIwMGE3Y2E3NDkzNmFkNTBkOGU4NjAxNTJlNDgyY2ZiZGUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}
+[2024-12-29 22:45:12] [klaus/INFO] [CustomSkinLoader Core]: klaus's profile loaded.
+[2024-12-29 22:45:12] [klaus/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/5d836d737f8b9f583934aa42601ff9ce2c1f46955d7659e10781ca3554a1425d , Model: default , CapeUrl: http://textures.minecraft.net/texture/b0cc08840700447322d953a02b965f1d65a13a603bf64b17c803c21446fe1635  , Expiry: 1735523142)
+[2024-12-29 22:45:12] [l1pe__/INFO] [CustomSkinLoader Core]: l1pe__'s profile loaded.
+[2024-12-29 22:45:12] [l1pe__/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/ab6e4bed9e377aaa094ea060522b21d9dffc34d1e01f03975339eb2c99c5e449 , Model: slim , CapeUrl: http://textures.minecraft.net/texture/cb40a92e32b57fd732a00fc325e7afb00a7ca74936ad50d8e860152e482cfbde  , Expiry: 1735523142)
+[2024-12-29 22:45:12] [NathyZX/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2024-12-29 22:45:12] [NathyZX/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\athos\AppData\Roaming\.minecraft\versions\RefugioModpack\CustomSkinLoader\caches\53dbc46898e1182eee0a513940cd92ec11bf233f' , Expire: 1735523202)
+[2024-12-29 22:45:12] [NathyZX/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2024-12-29 22:45:12] [NathyZX/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2024-12-29 22:45:12] [NathyZX/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'BlessingSkin'.
+[2024-12-29 22:45:12] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/NathyZX.json'.
+[2024-12-29 22:45:13] [NathyZX/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-12-29 22:45:13] [NathyZX/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-12-29 22:45:13] [NathyZX/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'ElyBy'.
+[2024-12-29 22:45:13] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/NathyZX'.
+[2024-12-29 22:45:14] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 2)
+[2024-12-29 22:45:14] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'C:\Users\athos\AppData\Roaming\.minecraft\versions\RefugioModpack\CustomSkinLoader\caches\b458ad79932ac79353f572d713149583552ff792' , Expire: 1735523205)
+[2024-12-29 22:45:14] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2024-12-29 22:45:14] [HariG4mer/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2024-12-29 22:45:14] [HariG4mer/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'BlessingSkin'.
+[2024-12-29 22:45:14] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/HariG4mer.json'.
+[2024-12-29 22:45:14] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-12-29 22:45:14] [HariG4mer/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-12-29 22:45:14] [HariG4mer/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'ElyBy'.
+[2024-12-29 22:45:14] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/HariG4mer'.
+[2024-12-29 22:45:19] [NathyZX/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 204 , Content Length: -1)
+[2024-12-29 22:45:19] [NathyZX/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 0 , Path: 'C:\Users\athos\AppData\Roaming\.minecraft\versions\RefugioModpack\CustomSkinLoader\caches\42d8e428736aa31ad96a6f570e790b1ad08dd1af' , Expire: 1735526720)
+[2024-12-29 22:45:19] [NathyZX/DEBUG] [CustomSkinLoader Core]: Content: 
+[2024-12-29 22:45:19] [NathyZX/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-12-29 22:45:19] [NathyZX/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'SkinMe'.
+[2024-12-29 22:45:19] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/NathyZX.json'.
+[2024-12-29 22:45:20] [NathyZX/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/NathyZX.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2024-12-29 22:45:20] [NathyZX/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-12-29 22:45:20] [NathyZX/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'TLauncher'.
+[2024-12-29 22:45:20] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/NathyZX'.
+[2024-12-29 22:45:21] [NathyZX/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2024-12-29 22:45:21] [NathyZX/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 112 , Path: 'C:\Users\athos\AppData\Roaming\.minecraft\versions\RefugioModpack\CustomSkinLoader\caches\511d25a76da5e046a95cbf31372d2269964ad2a2' , Expire: 1735523216)
+[2024-12-29 22:45:21] [NathyZX/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_nathyzx.png","metadata":{"model":"slim"}}}
+[2024-12-29 22:45:21] [NathyZX/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'GlitchlessGames'.
+[2024-12-29 22:45:21] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=NathyZX'.
+[2024-12-29 22:45:22] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 204 , Content Length: -1)
+[2024-12-29 22:45:22] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 0 , Path: 'C:\Users\athos\AppData\Roaming\.minecraft\versions\RefugioModpack\CustomSkinLoader\caches\85bb9aed357ddf4f7eda2cac5e99e5b6be3353c1' , Expire: 1735526725)
+[2024-12-29 22:45:22] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Content: 
+[2024-12-29 22:45:22] [HariG4mer/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-12-29 22:45:22] [HariG4mer/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'SkinMe'.
+[2024-12-29 22:45:22] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/HariG4mer.json'.
+[2024-12-29 22:45:22] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/HariG4mer.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2024-12-29 22:45:22] [HariG4mer/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-12-29 22:45:22] [HariG4mer/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'TLauncher'.
+[2024-12-29 22:45:22] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/HariG4mer'.
+[2024-12-29 22:45:23] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2024-12-29 22:45:23] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 86 , Path: 'C:\Users\athos\AppData\Roaming\.minecraft\versions\RefugioModpack\CustomSkinLoader\caches\f370a85595313cfad1ad4f331b23aef9aafedb17' , Expire: 1735523213)
+[2024-12-29 22:45:23] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Content: {"SKIN":{"url":"http://auth.tlauncher.org/skin/fileservice/skins/skin_harig4mer.png"}}
+[2024-12-29 22:45:23] [HariG4mer/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'GlitchlessGames'.
+[2024-12-29 22:45:23] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=HariG4mer'.
+[2024-12-29 22:45:32] [NathyZX/DEBUG] [CustomSkinLoader Core]: Failed to request https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=NathyZX (Exception: java.net.SocketTimeoutException: Read timed out)
+[2024-12-29 22:45:32] [NathyZX/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-12-29 22:45:32] [NathyZX/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'LocalSkin'.
+[2024-12-29 22:45:32] [NathyZX/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-12-29 22:45:32] [NathyZX/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'MinecraftCapes'.
+[2024-12-29 22:45:32] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:32] [NathyZX/INFO] [CustomSkinLoader Core]: Payload: ["NathyZX"]
+[2024-12-29 22:45:32] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-12-29 22:45:32] [HariG4mer/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-12-29 22:45:32] [HariG4mer/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'LocalSkin'.
+[2024-12-29 22:45:32] [HariG4mer/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-12-29 22:45:32] [HariG4mer/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'MinecraftCapes'.
+[2024-12-29 22:45:32] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:32] [HariG4mer/INFO] [CustomSkinLoader Core]: Payload: ["HariG4mer"]
+[2024-12-29 22:45:32] [NathyZX/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-12-29 22:45:32] [NathyZX/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-12-29 22:45:32] [NathyZX/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2024-12-29 22:45:32] [NathyZX/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'OptiFine'.
+[2024-12-29 22:45:32] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/NathyZX.png'.
+[2024-12-29 22:45:32] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-12-29 22:45:32] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-12-29 22:45:32] [HariG4mer/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2024-12-29 22:45:32] [HariG4mer/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'OptiFine'.
+[2024-12-29 22:45:32] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/HariG4mer.png'.
+[2024-12-29 22:45:33] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-12-29 22:45:33] [HariG4mer/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-12-29 22:45:33] [HariG4mer/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'Wynntils'.
+[2024-12-29 22:45:33] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:33] [HariG4mer/INFO] [CustomSkinLoader Core]: Payload: ["HariG4mer"]
+[2024-12-29 22:45:33] [NathyZX/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-12-29 22:45:33] [NathyZX/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-12-29 22:45:33] [NathyZX/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'Wynntils'.
+[2024-12-29 22:45:33] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:33] [NathyZX/INFO] [CustomSkinLoader Core]: Payload: ["NathyZX"]
+[2024-12-29 22:45:33] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-12-29 22:45:33] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-12-29 22:45:33] [HariG4mer/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-12-29 22:45:33] [HariG4mer/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'CloakPlus'.
+[2024-12-29 22:45:33] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/HariG4mer.png'.
+[2024-12-29 22:45:33] [NathyZX/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-12-29 22:45:33] [NathyZX/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-12-29 22:45:33] [NathyZX/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-12-29 22:45:33] [NathyZX/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'CloakPlus'.
+[2024-12-29 22:45:33] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/NathyZX.png'.
+[2024-12-29 22:45:34] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-12-29 22:45:34] [HariG4mer/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-12-29 22:45:34] [HariG4mer/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'LabyMod'.
+[2024-12-29 22:45:34] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:34] [HariG4mer/INFO] [CustomSkinLoader Core]: Payload: ["HariG4mer"]
+[2024-12-29 22:45:34] [NathyZX/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-12-29 22:45:34] [NathyZX/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-12-29 22:45:34] [NathyZX/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'LabyMod'.
+[2024-12-29 22:45:34] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:34] [NathyZX/INFO] [CustomSkinLoader Core]: Payload: ["NathyZX"]
+[2024-12-29 22:45:34] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-12-29 22:45:34] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-12-29 22:45:34] [HariG4mer/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-12-29 22:45:34] [HariG4mer/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2024-12-29 22:45:34] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:34] [HariG4mer/INFO] [CustomSkinLoader Core]: Payload: ["HariG4mer"]
+[2024-12-29 22:45:34] [NathyZX/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-12-29 22:45:34] [NathyZX/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-12-29 22:45:34] [NathyZX/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-12-29 22:45:34] [NathyZX/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2024-12-29 22:45:34] [NathyZX/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-12-29 22:45:34] [NathyZX/INFO] [CustomSkinLoader Core]: Payload: ["NathyZX"]
+[2024-12-29 22:45:34] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-12-29 22:45:34] [HariG4mer/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-12-29 22:45:34] [HariG4mer/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-12-29 22:45:34] [HariG4mer/INFO] [CustomSkinLoader Core]: HariG4mer's profile loaded.
+[2024-12-29 22:45:34] [HariG4mer/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_harig4mer.png , Model: default , CapeUrl: null  , Expiry: 1735523164)
+[2024-12-29 22:45:35] [NathyZX/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-12-29 22:45:35] [NathyZX/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-12-29 22:45:35] [NathyZX/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-12-29 22:45:35] [NathyZX/INFO] [CustomSkinLoader Core]: NathyZX's profile loaded.
+[2024-12-29 22:45:35] [NathyZX/INFO] [CustomSkinLoader Core]: (SkinUrl: http://auth.tlauncher.org/skin/fileservice/skins/skin_nathyzx.png , Model: slim , CapeUrl: null  , Expiry: 1735523165)
