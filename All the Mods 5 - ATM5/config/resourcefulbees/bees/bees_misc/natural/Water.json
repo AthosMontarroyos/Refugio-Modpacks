@@ -1,9 +1,0 @@
-{
-    "honeycombColor": "#f0b400",
-    "primaryColor": "#f0b400",
-    "secondaryColor": "#f0ec00",
-    "flower": "tag:minecraft:water",
-    "spawnInWorld": true,
-    "biomeWhitelist": "tag:ocean,tag:river",
-    "maxTimeInHive": 600
-  }
