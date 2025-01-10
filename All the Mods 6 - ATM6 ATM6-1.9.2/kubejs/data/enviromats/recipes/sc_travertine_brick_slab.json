@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "enviromats:travertine_blocks"
-  },
-  "result": "enviromats:travertine_brick_slab",
-  "count": 2
-}

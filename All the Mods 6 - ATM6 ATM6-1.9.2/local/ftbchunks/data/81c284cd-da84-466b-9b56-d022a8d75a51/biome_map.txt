@@ -1,5 +1,0 @@
-#47F minecraft:birch_forest
-#507 byg:cherry_blossom_clearing
-#010 minecraft:forest
-#5A5 biomesoplenty:orchard
-#698 biomesoplenty:redwood_forest

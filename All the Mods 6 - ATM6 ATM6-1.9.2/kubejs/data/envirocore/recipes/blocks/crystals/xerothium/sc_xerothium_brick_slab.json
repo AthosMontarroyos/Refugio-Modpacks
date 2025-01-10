@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "envirocore:xerothium_blocks"
-  },
-  "result": "envirocore:xerothium_brick_slab",
-  "count": 2
-}
